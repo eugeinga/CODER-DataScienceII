@@ -1,0 +1,12 @@
+﻿caracteristica,white_min,white_max,red_min,red_max
+Acidez fija, 3.00 , 14.00 , 3.00 , 15.00 
+Acidez volatil, 0.10 , 1.10 , 0.20 , 1.20 
+Ácido citrico, -   , 1.00 , -   , 1.00 
+Azucar residual, 1.00 , 45.00 , 1.00 , 15.00 
+Cloruros, 0.01 , 0.20 , 0.01 , 0.20 
+Dioxido de azufre libre, 5.00 , 60.00 , 5.00 , 50.00 
+Dioxido de azufre total, 50.00 , 400.00 , 50.00 , 200.00 
+Densidad, 0.99 , 1.01 , 0.99 , 1.01 
+pH, 2.80 , 3.80 , 3.00 , 4.00 
+Sulfatos, 0.30 , 1.50 , 0.30 , 1.50 
+Alcohol, 8.00 , 14.50 , 10.00 , 15.00 
