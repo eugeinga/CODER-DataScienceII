@@ -1,12 +1,12 @@
 ﻿caracteristica,white_min,white_max,red_min,red_max
-fixed acidity,3,14,3,15
-volatile acidity,0.1,1.1,0.2,1.2
+fixed acidity,3,14,3,16
+volatile acidity,0.1,1.2,0.2,1.6
 citric acid,0,1,0,1
 residual sugar,1,45,1,15
 chlorides,0.01,0.3,0.01,0.6
-free sulful dioxide,5,80,5,50
-total sulful dioxide,25,400,15,250
+free sulful dioxide,5,70,5,50
+total sulful dioxide,25,350,15,250
 density,0.990,1.03,0.990,1.01
 pH,2.8,3.8,3,4
-sulphates,0.3,1.5,0.3,1.5
+sulphates,0.3,2,0.3,1.5
 alcohol,8,14.5,9,15
