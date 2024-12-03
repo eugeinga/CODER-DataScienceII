@@ -1,12 +1,12 @@
 ﻿caracteristica,white_min,white_max,red_min,red_max
-Acidez fija,3,14,3,15
-Acidez volatil,0.1,1.1,0.2,1.2
-Ácido citrico,0,1,0,1
-Azucar residual,1,45,1,15
-Dioxido de azufre libre,5,60,5,50
-Dioxido de azufre total,50,400,50,200
-Densidad,0.99,1.01,0.99,1.01
+fixed acidity,3,14,3,15
+volatile acidity,0.1,1.1,0.2,1.2
+citric acid,0,1,0,1
+residual sugar,1,45,1,15
+chlorides,0.01,0.2,0.01,0.2
+free sulful dioxide,5,60,5,50
+total sulful dioxide,50,400,50,200
+density,0.99,1.01,0.99,1.01
 pH,2.8,3.8,3,4
-Sulfatos,0.3,1.5,0.3,1.5
-Alcohol,8,14.5,10,15
-Cloruros,0.01,0.2,0.01,0.2
+sulphates,0.3,1.5,0.3,1.5
+alcohol,8,14.5,10,15
