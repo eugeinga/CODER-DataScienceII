@@ -3,10 +3,10 @@ Acidez fija,3,14,3,15
 Acidez volatil,0.1,1.1,0.2,1.2
 Ácido citrico,0,1,0,1
 Azucar residual,1,45,1,15
-Cloruros,0.01,0.2,0.01,0.2
 Dioxido de azufre libre,5,60,5,50
 Dioxido de azufre total,50,400,50,200
 Densidad,0.99,1.01,0.99,1.01
 pH,2.8,3.8,3,4
 Sulfatos,0.3,1.5,0.3,1.5
 Alcohol,8,14.5,10,15
+Cloruros,0.01,0.2,0.01,0.2
